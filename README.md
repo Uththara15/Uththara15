@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Uththara Gamage</h1>
+<h1 align="center">Hi, I'm Madee Uththara Deegoda Gamage</h1>
 
 <p align="center">
   ICT graduate in Data Analytics and AI from JAMK University of Applied Sciences, Finland.<br>
